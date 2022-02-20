@@ -1,0 +1,51 @@
+
+
+body {
+
+background: rgb(94, 94, 185);
+font: normal 20px Arial;
+
+}
+
+
+header {
+
+    color: white;
+    text-align: center;
+}
+
+#foto {
+
+    max-width: 250px;
+    max-height: 250px;
+    border-radius: 250%;
+    padding: 25%;
+    
+
+    
+}
+
+div {
+
+    text-align: center;
+}
+
+section {
+
+    background: white;
+    border-radius: 20px;
+    padding: 20px;
+    width: 500px;
+    height: autopx;
+    margin: auto;
+    box-shadow: 3px 3px 7px black;
+
+}
+
+
+footer {
+
+    text-align: center;
+    color: white;
+
+}
